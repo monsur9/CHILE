@@ -1,0 +1,8 @@
+SOW
+PLANNING
+Design
+Approval
+Development
+QA
+UAT
+PROD DEPLOYMENT
